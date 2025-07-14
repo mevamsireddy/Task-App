@@ -3,6 +3,11 @@
 A simple task manager built with **React**. Users can add, toggle, delete, and filter tasks (all, active, completed) using a clean UI, with no backend required.
 
 ---
+## Screenshots
+
+![Screenshot 1](Web_UI.png)
+
+---
 
 ## Folder Structure
 ```

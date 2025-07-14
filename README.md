@@ -28,7 +28,7 @@ task-manager/
 ## Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/mevamsireddy/task-manager.git
 cd task-manager
 
 # Install dependencies
